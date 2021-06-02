@@ -1,0 +1,14 @@
+name: dart_tars_protocol
+description: Decode and encode TARS protocol data for dart.
+version: 1.0.0
+homepage: https://github.com/xiaoyaocz/dart_tars_protocol
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+#dependencies:
+#  path: ^1.7.0
+
+dev_dependencies:
+  pedantic: ^1.9.0
+  test: ^1.14.4
